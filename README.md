@@ -1,2 +1,3 @@
-# machine_learning
-contributors- SK mishra, PP
+# Machine Learning
+
+This repository contains machine learning projects and related resources.
